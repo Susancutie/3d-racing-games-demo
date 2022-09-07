@@ -1,0 +1,27 @@
+﻿  main.cpp
+G:\Fork\3d-racing-games-demo\RacingGames\include\learnopengl\mesh.h(93,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(408,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(415,21): warning C4305: “初始化”: 从“double”到“float”截断
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(416,22): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(417,23): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(418,22): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(646,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(647,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(651,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(652,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(654,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(655,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+G:\Fork\3d-racing-games-demo\RacingGames\main.cpp(664,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+LINK : fatal error LNK1104: 无法打开文件“glfw3.lib”

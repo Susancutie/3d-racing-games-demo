@@ -1,10 +1,10 @@
 #ifndef CAR_H
 #define CAR_H
 
-#include <glad/glad.h>
-
-#include <glm/glm.hpp>
-#include <glm/gtc/matrix_transform.hpp>
+#include "include/glad/glad.h"
+         
+#include "include/glm/glm.hpp"
+#include "include/glm/gtc/matrix_transform.hpp"
 
 #include <queue>
 

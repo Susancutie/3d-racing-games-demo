@@ -1,18 +1,18 @@
-#include <glad/glad.h>
+#include "include/glad/glad.h"
 
-#include <GLFW/glfw3.h>
+#include "include/GLFW/glfw3.h"
 
-#include <glm/glm.hpp>
-#include <glm/gtc/matrix_transform.hpp>
-#include <glm/gtc/type_ptr.hpp>
+#include "include/glm/glm.hpp"
+#include "include/glm/gtc/matrix_transform.hpp"
+#include "include/glm/gtc/type_ptr.hpp"
 
-#include <learnopengl/camera.h>
-#include <learnopengl/filesystem.h>
-#include <learnopengl/model.h>
-#include <learnopengl/shader_m.h>
+#include "include/learnopengl/camera.h"
+#include "include/learnopengl/filesystem.h"
+#include "include/learnopengl/model.h"
+#include "include/learnopengl/shader_m.h"
 
-#include <my/car.h>
-#include <my/fixed_camera.h>
+#include "include/my/car.h"
+#include "include/my/fixed_camera.h"
 
 #include <iostream>
 

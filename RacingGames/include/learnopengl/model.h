@@ -3,19 +3,19 @@
 #ifndef MODEL_H
 #define MODEL_H
 
-#include <glad/glad.h>
-
-#include <assimp/Importer.hpp>
-#include <assimp/postprocess.h>
-#include <assimp/scene.h>
-
-#include <glm/glm.hpp>
-#include <glm/gtc/matrix_transform.hpp>
-
-#include <stb_image.h>
-
-#include <learnopengl/mesh.h>
-#include <learnopengl/shader_m.h>
+#include "include/glad/glad.h"
+         
+#include "include/assimp/Importer.hpp"
+#include "include/assimp/postprocess.h"
+#include "include/assimp/scene.h"
+         
+#include "include/glm/glm.hpp"
+#include "include/glm/gtc/matrix_transform.hpp"
+         
+#include "include/stb_image.h"
+         
+#include "include/learnopengl/mesh.h"
+#include "include/learnopengl/shader_m.h"
 
 #include <fstream>
 #include <iostream>
